@@ -6,9 +6,9 @@
       - DIY projects
       - Arduino projects
 - 🌱 I’m currently learning ...
-      - Refreshing my knowledge of OOP Design Patterns
+      - Refreshing my knowledge of ReactJS
       - Improving my skills and understanding of React applications
-      - Smart Home design with Home Assistant
+      - Smart Home design with HomeAssistant
       - Flow based programming with Node-RED
       - Mobile Development with Android Studio
 - 💞️ I’m looking to collaborate on ...
